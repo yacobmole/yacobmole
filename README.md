@@ -1,4 +1,4 @@
-### Hi there, Im Jacob Mole 👋
+<h1 align="center">### Hi there, Im Jacob Mole 👋</h1>
 
 <p align="center">
 - 📫 How to reach me via Email: me@jacobmole.xyz<br>
@@ -6,8 +6,6 @@
 - ⚡ Fun fact: Coding has over 700 languages.<br>
 - 🌱 I’m currently learning website design.<br>
 - 💬 Ask me about website design.
-
-
 </p>
 <table>
     <tr>
