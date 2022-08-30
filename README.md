@@ -1,11 +1,13 @@
 ### Hi there, Im Jacob Mole 👋
 
 <p align="center">
+- 📫 How to reach me via Email: me@jacobmole.xyz<br>
 - 🔭 I’m currently working on my personal website.<br>
+- ⚡ Fun fact: Coding has over 700 languages
 - 🌱 I’m currently learning website design.<br>
 - 💬 Ask me about website design.<br>
-- 📫 How to reach me via Email: me@jacobmole.xyz<br>
-- ⚡ Fun fact: Coding has over 700 languages
+
+
 </p>
 <table>
     <tr>
