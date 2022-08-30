@@ -3,9 +3,9 @@
 <p align="center">
 - 📫 How to reach me via Email: me@jacobmole.xyz<br>
 - 🔭 I’m currently working on my personal website.<br>
-- ⚡ Fun fact: Coding has over 700 languages
+- ⚡ Fun fact: Coding has over 700 languages.<br>
 - 🌱 I’m currently learning website design.<br>
-- 💬 Ask me about website design.<br>
+- 💬 Ask me about website design.
 
 
 </p>
