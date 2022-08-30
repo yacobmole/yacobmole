@@ -1,11 +1,14 @@
-### Hi there, Im Jacob Mole 👋
 
+
+
+<p align="center">
+### Hi there, Im Jacob Mole 👋
 - 🔭 I’m currently working on my personal website.
 - 🌱 I’m currently learning website design.
 - 💬 Ask me about website design.
 - 📫 How to reach me via Email: me@jacobmole.xyz
 - ⚡ Fun fact: Coding has over 700 languages
-
+</p>
 <table>
     <tr>
       <td align="center" style="padding=0;width=50%;">
