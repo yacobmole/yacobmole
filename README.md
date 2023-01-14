@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, Im Jacob Mole 👋</h1>
+<h1 align="center">Hi there, Im Lonely Planet 👋</h1>
 
 <p align="center">
 - 📫 How to reach me via Email: me@jacobmole.xyz<br>
