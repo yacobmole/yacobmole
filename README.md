@@ -16,4 +16,9 @@
         <img align="center" style="padding=0;" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=lonelyplanetdev&layout=compact&show_icons=true&title_color=B8AFE6&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
       </td>
     </tr>
+    <tr>
+        <td>
+        [![Discord](https://lanyard.cnrad.dev/api/629835281142382623)](https://discord.com/users/629835281142382623?hideStatus-true)
+        </td>
+    </tr>
 </table>
