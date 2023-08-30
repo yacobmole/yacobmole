@@ -1,10 +1,9 @@
 <h1 align="center">Hi there, Im Lonely Planet 👋</h1>
 
 <p align="center">
-- 📫 How to reach me via Discord: Lonely Planet#0001<br>
+- 📫 How to reach me via Discord: @lonelyplanetbr>
 - ⚡ Fun fact: Coding has over 700 languages.<br>
 - 🌱 I’m currently learning website design.<br>
-- 💬 Ask me about website design.
 </p>
 <table align="center">
     <tr>
