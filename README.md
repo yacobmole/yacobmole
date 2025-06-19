@@ -11,7 +11,7 @@ no bootcamp. no certs. just tabs, commits, and the occasional existential crisis
 
 ### what i use to break things
 
-![top langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=lonelyplanetdev&layout=compact&show_icons=true&title_color=B8AFE6&text_color=9f9f9f&bg_color=00000000&hide_border=true&hide_title=true&count_private=true)
+![top langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yacobmole&layout=compact&show_icons=true&title_color=B8AFE6&text_color=9f9f9f&bg_color=00000000&hide_border=true&hide_title=true&count_private=true)
 
 ---
 
