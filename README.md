@@ -1,4 +1,4 @@
-# no bs, i'm jacob mole
+# i'm jacob mole
 
 self-taught dev. type-check enjoyer.  
 typescript is [**goated**](https://www.urbandictionary.com/define.php?term=Goated) and if you disagree, you probably `any` your way through life.
